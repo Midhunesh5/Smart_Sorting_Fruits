@@ -1,0 +1,7 @@
+streamlit  # Streamlit for building the web app
+ultralytics # YOLOv8 library for object detection
+Pillow      # Python Imaging Library for image manipulation
+torch        # PyTorch (required for YOLOv8)
+opencv-python # OpenCV for image processing and computer vision tasks
+numpy      # Numpy for numerical operations
+ploty
